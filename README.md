@@ -12,7 +12,7 @@
 <tbody>
   <tr>
     <td>
-        <a href="https://www.credly.com/badges/115a4085-1471-4298-ae4f-141d58702e80/public_url"><img src="./img/TERRAFORM_associate.png"></a>
+        <a href="https://www.credly.com/badges/115a4085-1471-4298-ae4f-141d58702e80/public_url"><img src="./img/TERRAFORM_associate.gif"></a>
     </td>
     <td> 
         <a href="https://www.credly.com/badges/b3997caf-6907-417f-a5a5-0b836888bcfe/public_url"><img src="./img/AWS_pract.png"></a>
