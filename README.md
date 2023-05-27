@@ -4,7 +4,7 @@
 <thead>
   <tr>
     <th> HashiCorp Terraform Associate </th>
-    <th> AWS Cloud Practitioner </th>
+    <th> AWS Cloud Associate </th>
     <th> PCEP Entry-Level Python Programmer </th>
     <th> Microsoft Azure Fundamentals </th>
   </tr>
@@ -15,7 +15,7 @@
         <a href="https://www.credly.com/badges/115a4085-1471-4298-ae4f-141d58702e80/public_url"><img src="./img/TERRAFORM_associate.gif"></a>
     </td>
     <td> 
-        <a href="https://www.credly.com/badges/b3997caf-6907-417f-a5a5-0b836888bcfe/public_url"><img src="./img/AWS_pract.png"></a>
+        <a href="https://www.credly.com/badges/882e958f-d7ef-4e40-a5fa-65e84c2246d6/public_url"><img src="./img/AWS_ass.png"></a>
    </td>
    <td> 
         <a href="https://www.credly.com/badges/34aa178c-c5b2-478f-bdd6-1e85993483de/public_url"><img src="./img/PYTHON_bronze.png"></a>
