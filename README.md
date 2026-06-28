@@ -1,7 +1,5 @@
 <div align="center">
-<a href="https://github.com/smuger">
 <img width="100%" src="https://dashboard-stats.krzysiek-kwietniewski.workers.dev/api/stats?v=5" alt="GitHub Stats" />
-</a>
 </div>
 
 <br/>
