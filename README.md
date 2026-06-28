@@ -1,28 +1,69 @@
-## Certifications
+<div align="center">
+<a href="https://github.com/smuger">
+<img width="100%" src="https://dashboard-stats.krzysiek-kwietniewski.workers.dev/api/stats?v=5" alt="GitHub Stats" />
+</a>
+</div>
 
-<table>
-<thead>
-  <tr>
-    <th> HashiCorp Terraform Associate </th>
-    <th> AWS Cloud Associate </th>
-    <th> PCEP Entry-Level Python Programmer </th>
-    <th> Microsoft Azure Fundamentals </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-        <a href="https://www.credly.com/badges/115a4085-1471-4298-ae4f-141d58702e80/public_url"><img src="./img/TERRAFORM_associate.gif"></a>
-    </td>
-    <td> 
-        <a href="https://www.credly.com/badges/882e958f-d7ef-4e40-a5fa-65e84c2246d6/public_url"><img src="./img/AWS_ass.png"></a>
-   </td>
-   <td> 
-        <a href="https://www.credly.com/badges/34aa178c-c5b2-478f-bdd6-1e85993483de/public_url"><img src="./img/PYTHON_bronze.png"></a>
-   </td>
-   <td> 
-        <a href="https://www.credly.com/badges/0cca59b4-6941-4292-b37c-290d01bf358e/public_url"><img src="./img/AZURE_fundamentals.png"></a>
-   </td>
-  </tr>
-</tbody>
-</table>
+<br/>
+
+<div align="center">
+<a href="https://www.credly.com/users/krzysztof-kwietniewski">
+<img width="100%" src="https://dashboard-stats.krzysiek-kwietniewski.workers.dev/api/certifications?v=5" alt="Certifications" />
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/search?q=author%3Asmuger+type%3Apr&type=pullrequests">
+<img width="100%" src="https://dashboard-stats.krzysiek-kwietniewski.workers.dev/api/prs?v=5" alt="Recent Pull Requests" />
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/smuger?tab=repositories">
+<img width="100%" src="https://dashboard-stats.krzysiek-kwietniewski.workers.dev/api/language-evolution?v=5" alt="Language Evolution" />
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/smuger?tab=repositories&sort=stargazers">
+<img width="100%" src="https://dashboard-stats.krzysiek-kwietniewski.workers.dev/api/stars-growth?v=5" alt="Stars Growth" />
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/smuger#js-contribution-activity">
+<img width="100%" src="https://dashboard-stats.krzysiek-kwietniewski.workers.dev/api/contribution-breakdown?v=5" alt="Contribution Breakdown" />
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/search?q=author%3Asmuger+type%3Apr&type=pullrequests">
+<img width="100%" src="https://dashboard-stats.krzysiek-kwietniewski.workers.dev/api/review-volume?v=5" alt="PR Review Volume" />
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/smuger?tab=repositories">
+<img width="100%" src="https://dashboard-stats.krzysiek-kwietniewski.workers.dev/api/repo-pace?v=5" alt="New Repos per Year" />
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/smuger?tab=repositories">
+<img width="100%" src="https://dashboard-stats.krzysiek-kwietniewski.workers.dev/api/language-diversity?v=5" alt="Language Diversity" />
+</a>
+</div>
